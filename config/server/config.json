@@ -1,0 +1,7 @@
+{
+    "host": "10.10.1.65",
+    "database": "aula",
+    "user"  : "aula",
+    "password" : "aula",
+    "port": "3306"
+}
